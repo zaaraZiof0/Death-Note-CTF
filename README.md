@@ -5,7 +5,7 @@
 
 ---
 
-## 📖 Challenge Story
+## Challenge Story
 
 The Grim Reaper has left behind more than just fear — he has crafted a silent Android application.  
 At first glance, it appears harmless… just a shrine webpage dedicated to Death itself.
@@ -26,7 +26,7 @@ Only when these two are discovered and combined will the Reaper reveal his final
 
 ---
 
-## 🏁 Flag Format
+## Flag Format
 ```
 CTF{your_final_message_here}
 ```
@@ -41,14 +41,14 @@ You may share your write-up or solution insights here:
 ---
 
 ## 🛠 Recommended Tools
-🧩 JADX / JD-GUI  
-📦 apktool  
-🔍 Strings / Resource Explorer  
-🖥 Any Android Reverse Engineering Suite  
+ JADX / JD-GUI  
+ apktool  
+ Strings / Resource Explorer  
+ Any Android Reverse Engineering Suite  
 
 ---
 
-## ⚠️ Rules
+## Rules
 - Static analysis only (no dynamic execution required)
 - Do not brute force
 - Have fun and learn something new!
